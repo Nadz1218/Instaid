@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram ID Submission</title>
+</head>
+<body>
+    <h2>Submit Your Instagram ID</h2>
+    <form action="submit_insta.php" method="post">
+        <label for="insta_id">Instagram ID:</label><br>
+        <input type="text" id="insta_id" name="insta_id"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
